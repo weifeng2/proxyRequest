@@ -1,0 +1,1 @@
+# 实现了使用socket、httpurlconnect、httpclient请求http或https请求，并且可以使用代理（带用户名和密码）

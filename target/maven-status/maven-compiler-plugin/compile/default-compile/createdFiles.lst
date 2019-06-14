@@ -1,0 +1,7 @@
+com\bree\proxy\utils\HttpAndHttpsProxy$MyAuthenticator.class
+com\bree\proxy\utils\HttpAndHttpsProxy$1.class
+com\bree\proxy\utils\HttpAndHttpsProxy$TrustAnyHostnameVerifier.class
+com\bree\proxy\model\ProxyInfo.class
+com\bree\proxy\utils\HttpAndHttpsProxy.class
+com\bree\proxy\utils\HttpAndHttpsProxy$TrustAnyTrustManager.class
+com\bree\proxy\utils\SocketHttpAndHttpsProxy.class
